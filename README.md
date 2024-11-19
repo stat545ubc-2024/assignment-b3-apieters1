@@ -10,7 +10,7 @@ Welcome to the **Penguins data analysis application**!
 
 The aim of the project is to develop a shiny app which uses the `penguins` data from the `palmerpenguins` package in R with the following features:
 
-\- [x] Allows for the user to search multiple entries simultaneously.
+\- [x] Allows the user to search multiple entries simultaneously.
 
 \- [x] Displays the output as a plot and table in separate tabs.
 
